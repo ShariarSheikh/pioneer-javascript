@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 100px;
+}
+
+.submit-area {
+  margin: 0 auto;
+  max-width: 700px;
+  padding: 50px;
+  box-shadow: 0px 1px 5px 0px #0000006e;
+  border-radius: 10px;
+}
+#transaction-area {
+  display: none;
+}
+.mrC {
+  margin-right: 10px;
+  max-width: 400px;
+}
